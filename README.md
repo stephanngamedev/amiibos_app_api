@@ -1,24 +1,11 @@
-## README
+## Amiibos APP API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[![Build Status](https://travis-ci.org/stephanngamedev/amiibos_app_api.svg?branch=master)](https://travis-ci.org/stephanngamedev/amiibos_app_api)
 
-Things you may want to cover:
+Amiibos APP API is an API for Amiibos APP. 
+Amiibos APP manage your amiibo's collection.
 
-* Ruby version
+* Ruby 2.2.x
+* Rails 5 alpha
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Under construction...
