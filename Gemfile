@@ -8,6 +8,8 @@ gem 'rack', github: "rack/rack"
 
 gem 'pg', '~> 0.18.4'
 
+gem 'active_model_serializers', '~> 0.10.0.rc1'
+
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 # gem 'jbuilder', '~> 2.0'
 # Use Puma as the app server
@@ -35,6 +37,7 @@ group :development do
 end
 
 group :test do
+  gem 'simplecov', require: false
   gem 'shoulda-matchers', '~> 3.0'
   gem 'rake'
 end

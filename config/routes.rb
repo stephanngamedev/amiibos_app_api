@@ -3,4 +3,7 @@ Rails.application.routes.draw do
 
   # Serve websocket cable requests in-process
   # mount ActionCable.server => '/cable'
+
+  get 'amiibos/:id', to: 'amiibos#show', as: :amiibo
+  post 'amiibos/', to: 'amiibos#create'
 end
