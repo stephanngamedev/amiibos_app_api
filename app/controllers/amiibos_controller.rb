@@ -20,6 +20,16 @@ class AmiibosController < ApplicationController
 		end
 	end
 
+	def update
+		amiibo = Amiibo.find( params[:id] )
+
+		if amiibo.update( amiibo_params )
+			render json: amiibo
+		else
+			render json: amiibo.errors, status: :unprocessable_entity
+		end
+	end
+
 	private
 	def amiibo_params
 		params.require(:amiibo).permit( 

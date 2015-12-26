@@ -106,4 +106,88 @@ describe AmiibosController, :type => :controller do
 			end
 		end
 	end
+
+	describe "PUT update" do
+		let(:new_params) {
+			{ name: "New Ness" }
+		}
+
+		it "permit only whitelisted params" do
+			amiibo = Amiibo.create! valid_attributes
+
+			params = { params: { id: amiibo.to_param, amiibo: new_params } }
+			
+			is_expected.to permit(
+				:name, 
+				:series_id, 
+				:release_date, 
+				:company_id, 
+				:description, 
+				:detail_image_url, 
+				:boxart_image_url)
+			.for(:update, params: params)
+			.on(:amiibo)
+		end
+
+		it "find amiibo by given id" do
+			amiibo = Amiibo.create! valid_attributes
+		
+			expect( Amiibo ).to receive( :find ).with( amiibo.to_param ).and_return( amiibo )
+
+			put :update, params: { id: amiibo.to_param, amiibo: new_params }
+		end
+
+		context "with valid params" do
+			it "update amiibo" do
+				amiibo = Amiibo.create! valid_attributes
+				
+				request_params = new_params.stringify_keys.transform_values{ |v| v.to_s }
+				
+				allow( Amiibo ).to receive( :find ).with( amiibo.to_param ).and_return( amiibo )
+				
+				expect( amiibo ).to receive( :update ).with( request_params ).and_return( true )
+
+				put :update, params: { id: amiibo.to_param, amiibo: new_params }
+			end
+
+			it "render updated amiibo" do
+				amiibo = Amiibo.create! valid_attributes
+				
+				request_params = new_params.stringify_keys.transform_values{ |v| v.to_s }
+				
+				allow( Amiibo ).to receive( :find ).with( amiibo.to_param ).and_return( amiibo )
+
+				expect( controller ).to receive( :render ).with( json: amiibo )
+
+				put :update, params: { id: amiibo.to_param, amiibo: new_params }
+			end
+		end
+
+		context "with invalid params" do
+			it "don't update amiibo" do
+				amiibo = Amiibo.create! valid_attributes
+				
+				request_params = invalid_attributes.stringify_keys.transform_values{ |v| v.to_s }
+				
+				allow( Amiibo ).to receive( :find ).with( amiibo.to_param ).and_return( amiibo )
+				
+				expect( amiibo ).to receive( :update ).with( request_params ).and_return( false )
+
+				put :update, params: { id: amiibo.to_param, amiibo: invalid_attributes }
+			end
+
+			it "render amiibo's errors" do
+				amiibo = Amiibo.create! valid_attributes
+				
+				allow( Amiibo ).to receive( :find ).with( amiibo.to_param ).and_return( amiibo )
+				
+				expect( controller ).to receive( :render ).with( 
+					json: amiibo.errors,
+					status: :unprocessable_entity
+				)
+
+				put :update, params: { id: amiibo.to_param, amiibo: invalid_attributes }
+			end
+		end
+	end
 end
