@@ -3,7 +3,10 @@ FactoryGirl.define do
 		name "Ness"
 		series_id 1
 		release_date "29/05/2015"
-		company_id 1
+		company_id {
+			company = Company.find_by( name: 'Nintendo') || FactoryGirl.create( :nintendo )
+			company.id
+		}
 		description %q{ 
 			Ness is a small-town kid and the main protagonist of 
 			the beloved game Earthbound. His ordinary looks hide his 
