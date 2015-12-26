@@ -25,4 +25,6 @@ RSpec.describe Amiibo, :type => :model do
 	it { is_expected.to validate_uniqueness_of( :name ) }
 
 	it { is_expected.to belong_to( :company ) }
+
+	it { is_expected.to belong_to( :series ) }
 end

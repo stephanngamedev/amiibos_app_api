@@ -1,12 +1,19 @@
 FactoryGirl.define do
 	factory :ness, class: Amiibo do
 		name "Ness"
-		series_id 1
+		
 		release_date "29/05/2015"
+		
 		company_id {
 			company = Company.find_by( name: 'Nintendo') || FactoryGirl.create( :nintendo )
 			company.id
 		}
+
+		series_id {
+			series = Series.find_by( name: 'Smash Bros. Series') || FactoryGirl.create( :smash_bros_series )
+			series.id
+		}
+
 		description %q{ 
 			Ness is a small-town kid and the main protagonist of 
 			the beloved game Earthbound. His ordinary looks hide his 
@@ -16,6 +23,7 @@ FactoryGirl.define do
 			powers of wisdom, courage, and friendship, Ness proves that 
 			some heroes come in small packages."
 		}
+
 		detail_image_url "http://media.nintendo.com/nintendo/bin/0KugQl0uMfq3OLVPbpxt8-hyjsyeaKTn/3dOPZ69UnKIiemhy02qpjNO4NX1GiWEo.png"
 		boxart_image_url "http://media.nintendo.com/nintendo/bin/dYeckYYRil0rZDgIPiNdNWFlrNDWNA6W/LpTLtCp74r7GjxpTrvGSzj0pWb9VQP_i.png"
 	end

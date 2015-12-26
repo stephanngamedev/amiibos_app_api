@@ -9,4 +9,5 @@ class AmiiboSerializer < ActiveModel::Serializer
 				:boxart_image_url
 				
 	belongs_to :company
+	belongs_to :series
 end
