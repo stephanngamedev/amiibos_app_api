@@ -30,6 +30,11 @@ class AmiibosController < ApplicationController
 		end
 	end
 
+	def destroy
+		amiibo = Amiibo.find( params[:id] )
+		amiibo.destroy
+	end
+
 	private
 	def amiibo_params
 		params.require(:amiibo).permit( 

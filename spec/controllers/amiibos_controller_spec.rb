@@ -190,4 +190,24 @@ describe AmiibosController, :type => :controller do
 			end
 		end
 	end
+
+	describe "DELETE destroy" do
+		it "find amiibo by given id" do
+			amiibo = Amiibo.create! valid_attributes
+		
+			expect( Amiibo ).to receive( :find ).with( amiibo.to_param ).and_return( amiibo )
+
+			delete :destroy, params: { id: amiibo.to_param }
+		end
+
+		it "destroy the requested amiibo" do
+			amiibo = Amiibo.create! valid_attributes
+			
+			allow( Amiibo ).to receive( :find ).with( amiibo.to_param ).and_return( amiibo )
+			
+			expect( amiibo ).to receive( :destroy )
+
+			delete :destroy, params: { id: amiibo.to_param }
+		end
+	end
 end

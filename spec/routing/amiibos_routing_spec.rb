@@ -17,5 +17,9 @@ describe AmiibosController, type: :routing do
 		it "routes to #update" do
 			expect( put: "/amiibos/1" ).to route_to("amiibos#update", id: "1")
 		end
+
+		it "routes to #destroy" do
+			expect( delete: "/amiibos/1" ).to route_to("amiibos#destroy", id: "1")
+		end
 	end
 end
