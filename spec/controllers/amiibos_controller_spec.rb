@@ -9,6 +9,24 @@ describe AmiibosController, :type => :controller do
 		{ name: "" }
 	}
 
+	describe "GET index" do
+		it "find all amiibos" do
+			amiibo = Amiibo.create! valid_attributes
+			
+			expect( Amiibo ).to receive( :all ).and_return( [ amiibo ] )
+
+			get :index
+		end
+
+		it "render amiibos" do
+			amiibo = Amiibo.create! valid_attributes
+			
+			expect( controller ).to receive( :render ).with( json: [ amiibo ] )
+
+			get :index
+		end
+	end
+
 	describe "GET show" do
 		it "find amiibo with given id" do
 			amiibo = Amiibo.create! valid_attributes

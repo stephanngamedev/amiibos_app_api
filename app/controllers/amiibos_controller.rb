@@ -1,16 +1,22 @@
 class AmiibosController < ApplicationController
+	def index
+		amiibos = Amiibo.all
+
+		render json: amiibos
+	end
+
 	def show
-		@amiibo = Amiibo.find(params[:id])
-		render json: @amiibo
+		amiibo = Amiibo.find(params[:id])
+		render json: amiibo
 	end
 
 	def create
-		@amiibo = Amiibo.new( amiibo_params )
+		amiibo = Amiibo.new( amiibo_params )
 
-		if @amiibo.save
-			render json: @amiibo, status: :created, location: @amiibo
+		if amiibo.save
+			render json: amiibo, status: :created, location: amiibo
 		else
-			render json: @amiibo.errors, status: :unprocessable_entity
+			render json: amiibo.errors, status: :unprocessable_entity
 		end
 	end
 

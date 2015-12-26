@@ -2,6 +2,10 @@ require 'rails_helper'
 
 describe AmiibosController, type: :routing do
 	describe 'routing' do
+		it "routes to #index" do
+			expect( get: "/amiibos" ).to route_to("amiibos#index")
+		end
+
 		it "routes to #show" do
 			expect( get: "/amiibos/1" ).to route_to("amiibos#show", id: "1")
 		end
