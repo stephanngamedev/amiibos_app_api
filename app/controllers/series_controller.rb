@@ -2,7 +2,7 @@ class SeriesController < ApplicationController
 	def index
 		series = Series.all
 
-		render json: series
+		render json: series, each_serializer: SeriesCollectionSerializer
 	end
 
 	def show

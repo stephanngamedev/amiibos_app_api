@@ -22,7 +22,10 @@ RSpec.describe CompaniesController, :type => :controller do
 		it "render companies" do
 			company = Company.create! valid_attributes
 			
-			expect( controller ).to receive( :render ).with( json: [ company ] )
+			expect( controller ).to receive( :render ).with( 
+				json: [ company ],
+				each_serializer: CompaniesSerializer 
+			)
 
 			get :index
 		end

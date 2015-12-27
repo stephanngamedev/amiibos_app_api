@@ -22,7 +22,10 @@ RSpec.describe SeriesController, :type => :controller do
 		it "render series" do
 			series = Series.create! valid_attributes
 			
-			expect( controller ).to receive( :render ).with( json: [ series ] )
+			expect( controller ).to receive( :render ).with( 
+				json: [ series ],
+				each_serializer: SeriesCollectionSerializer 
+			)
 
 			get :index
 		end
