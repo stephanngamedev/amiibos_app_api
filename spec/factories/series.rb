@@ -1,5 +1,5 @@
 FactoryGirl.define do
 	factory :smash_bros_series, class: Series do
-		name "Smash Bros. Series"
+		name "Super Smash Bros."
 	end
 end
