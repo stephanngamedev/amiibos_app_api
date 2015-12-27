@@ -1,0 +1,801 @@
+[
+	{
+		"name": "Donkey Kong",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2014/11/21",
+		"description": "This king of the jungle is superstrong, a little scatterbrained, and absolutely nuts about bananas. His adventures usually start with people stealing his hoard of them. As his physique suggests, this Kong is a powerhouse, but he's got speed to match too! His famous red necktie is adorned with his initials, DK.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/NUjT2KS-LPv3HDMBXDgs5l2LSB2dc7iM/QV8XWRLLQ_JYGBRmZbkjmJf_nwXE5TYK.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/aQx7SWcXxzSkSNSUIzY6ZeYNVqUaSdIZ/iPM6FHoYXbByhU4TnOmBmGdavTdZya2g.png"
+	},
+	{
+		"name": "Mario",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2014/11/21",
+		"description": "Mario™ never hesitates to leap into action when there’s trouble in the Mushroom Kingdom. Known for saving the world (and Princess Peach™) countless times from Bowser™, Mario is a true super star. He's got amazing jumping skills and makes use of a wide range of transformations. Mario has also powered up into countless roles: referee, doctor, sportsman, dancer, kart racer, and many more.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/HUsC5jjXJ53Crzxll8FFUe-6xklmNbCJ/a4SWrmW_szU_fF8OGtqfmymlF7wEkgD-.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/RwPfpP9pY0Kkle39yk1ySBzV-TX41csz/nccnfPgLMkEKopuy6gLEcCZ_JdIMGF95.png"
+	},
+	{
+		"name": "Fox",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2014/11/21",
+		"description": "Fox is the leader of the commando unit for hire known as Star Fox. He uses both the team's mother ship, the Great Fox, and his personal Arwing fighter to challenge the evil scientist Andross. His piloting skills are top notch, but he can also bring speed and fast attacks to the battle through hand-to-hand combat.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/X6tLURlVpJYQxgf_AR9d9IvCOl0Rg87h/p1-5TyL7gtgeA5SCrawo1Lg-qikctdrE.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/Ue2CWnkGQHokKCbhlL8DVgratZ4TOawB/MO8Q9tNNscvVzVm9E4G_fjKMTT30qgIh.png"
+	},
+	{
+		"name": "Kirby",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2014/11/21",
+		"description": "Round, pink and surprisingly powerful, Kirby™ is one of the most iconic heroes in video game history. A denizen of the peaceful planet Pop Star, Kirby became a citizen of Dream Land after defeating King Dedede. He can inhale things with his big mouth, either copying their abilities or spitting them out again.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/741u9Cg87_DDdCdRkNq3u7ljC1LBpXAz/ZEfj-17AAw9g5O7IaddLelMgg8Ef3NtW.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/76sx8pRqYqN0IB_9j1-1QFjuxaOjIqlM/X1qi8Hv4Hl9UXBBn0jOqkeyowuVZLLUG.png"
+	},
+	{
+		"name": "Link",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2014/11/21",
+		"description": "Link™ is the main character in The Legend of Zelda™ games. A young boy living in Hyrule, Link is often given the task of rescuing Princess Zelda™ and Hyrule from the Gerudo thief Ganondorf. Humble to the end, Link is known not merely as a hero but as a symbol of courage, strength and wisdom as well.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/mgANWsffVJdO6YRz3avhblDVQmSSPNQV/aT_1sr3cZUwmH_NcMr_AjE_wE4LOJrI8.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/wMxKtqtBLYbwYj13bYxGUjJY68IBkgCg/14yMwc3NFJqI_ZpKu6LGz3fkWpt4QtXr.png"
+	},
+	{
+		"name": "Marth",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2014/11/21",
+		"description": "The first hero from the Fire Emblem™ series, Marth is the prince of Altea and descendant of the hero Anri. He’s known as an exceptional swordfighter, swinging his blade with grace. He and a small group of stalwarts fought to free Altea after it was invaded by the kingdom of Doluna and the dark dragon, Medeus.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/lbiq4bjNJmMA4E-3ehWD8ye7efy4M4VL/L0r1-8PS3Mrg0F0AmKQ3tgQBrnXVmynI.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/b6h91nhCOHZI1V5SjIhSGjYaKPTHvlWT/oAQfSjs4QqfW82clTPoNXD2vuqC3FIsd.png"
+	},
+	{
+		"name": "Pikachu",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2014/11/21",
+		"description": "Pikachu has charmed fans and given a jolt to opponents for nearly 20 years—whether in the Pokémon™ TV series, the Pokémon Trading Card Game, or Pokémon video games, Pikachu has always been there as a stalwart companion for any Pokémon Trainer willing to take on the challenge of becoming the very best.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/81VjaRB1jIESbcXPuOZv-biUGepc-FXA/dyRFXR1wBPikxphyX_XNqeLr3tmCgX2z.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/Si2PbsFq-dTUWVdCXsNirXvGvRQ7Dneb/9QJPdbUl4mVKBD-NMj2GK2ORXvQetgFM.png"
+	},
+	{
+		"name": "Peach",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2014/11/21",
+		"description": "Princess Peach™ presides over the Mushroom Kingdom from her huge castle. Though she’s often the target of Bowser’s kidnapping schemes, Princess Peach is far from a simple damsel in distress. She’s a natural at tennis and golf, a ferocious driver, and can more than hold her own at adventuring and battling.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/0sKbzMpMPKeqc4OtyNbIuVNlbk-MSmSU/Pw04UnwSUwv3VwFLWGw0WRvFyX60QUhS.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/nIdKStOZXEbFhansNNOuS6HZrN4L2Na1/vnJaCyxMrUzF23VHEEgHObMVXOyLPsd7.png"
+	},
+	{
+		"name": "Samus",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2014/11/21",
+		"description": "Samus Aran, an intergalactic bounty hunter, has fought her way across a variety of planets in the Metroid™ series. Orphaned at an early age, she was taken in and raised by the alien race known as the Chozo. The Power Suit she wears is a product of their technology. Her unique combat skills combined with her athleticism and Arm Cannon have seen her through countless missions.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/7815EiEtvhreKzpxR4TCxDyrTcodOQ6r/ERh7logHKA1KV0XWSq-qUPjzaEWRSAC6.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/KRzn0_ZaSc4IPuKs93xp8OKNxaHzhAEG/dRf5GHdMYTa1idMMfIXkTlW7U_WWnGkh.png"
+	},
+	{
+		"name": "Villager",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2014/11/21",
+		"description": "An energetic young man from a peaceful town in Animal Crossing, he is eager to make new discoveries each day. Some of his hobbies include planting trees, fishing, digging for fossils, and catching insects with his net. Sometimes, he likes to just sit back and enjoy the scenery with friends.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/XXkMCwR3A8TPAodjMVgSfcCgOLZvAsnW/RO70cDMUicSC4BrM3JuR3RETQfV1lS24.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/tBLBsrwOY6yJgzx1YFaTIp5j45Y5-mBr/aLlEpoUOINdaNp1rzEoBxeap4WytrF3S.png"
+	},
+	{
+		"name": "Wii Fit Trainer",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2014/11/21",
+		"description": "This female trainer helps you in the Wii Fit™ series, instructing you during fitness exercises. She often advises you to maintain your center-of-balance, helping you tone up and burn calories. Recently, she has also shown herself as a capable close-quarters fighter.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/LV7Va5H4eMuXOnr4uJJHduLu1ilbL5po/fYARg1tIR5P9yyAwZo3eUcj5TKBFyogY.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/YuBFhGNcnZ1CKLFXVqLScs2kFcDjpiP1/MZYorsrnykh0G4PoRw9siKYnpoosMPHc.png"
+	},
+	{
+		"name": "Yoshi",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2014/11/21",
+		"description": "Yoshis come in all sorts of colors, but Mario's close buddy debuted in green. Kind-hearted, naturally protective of others, and perpetually hungry, Yoshi™ is always up for adventure…especially if there are snacks involved. Yoshis can flutter their legs to jump incredibly high. They also have extremely long tongues that they use to snare fruit and even enemies—anything they swallow gets turned into throwable eggs.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/OiQcUxA9QLr98SRgAltZViKJNUq7Syqr/c-T1HflFh1NoKBcpQc-tOWOg-4EYeTdU.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/O-3NlNr7U0-Dfcj7MMfAGYFwX1Lja4Tk/eQqDDY0D-V12QpA1JP-tYOdSGt43Afba.png"
+	},
+	{
+		"name": "Captain Falcon",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2014/12",
+		"description": "A skilled F-Zero pilot and resourceful bounty hunter. All that's known of his past is that he hails from Port Town. He's won fame and fortune outracing his opponents in his beloved Blue Falcon. His incredible athleticism and never-say-die attitude makes him the pilot to turn to in times of trouble.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/BOnC7vHSYYnqwrdcfUoZ3mG8UVUlhTWJ/HDCRKtS55kDQbFZDSUDZY84r0BqOBOoN.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/3d-owz_vsW03K_A8vhPeaAfDDODP2VnK/SrVhjLWlgcSzKO3C71LzPxzevkvhPgAF.png"
+	},
+	{
+		"name": "Diddy Kong",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2014/12",
+		"description": "Diddy Kong is Donkey Kong's trusty partner. He sports his signature look: red hat, red shirt and Rocketbarrel Pack. He's famous for his quickness and his long tail. Diddy usually plays second banana to DK, but he recently teamed up with DK, Dixie, and Cranky to save his home DK Island from invading arctic Snomads.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/Hr6WjG3c3DUFKWvMPfbVm9l3vJKzMZIj/7LXR5yiUjMmxpar89tOzzjil10HOWsn5.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/XOjJ5bvFPn5Sy0eY17dSGEq442930ire/CYqrOAkzHELVmBYrrA3JDsZbdcWELwgY.png"
+	},
+	{
+		"name": "Little Mac",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2014/12",
+		"description": "This little boxer from the Punch-Out!! series makes up in heart what he lacks in height. Under the guidance of his coach Doc Louis, Little Mac took on opponents several times his size on his way to winning the WVBA championship belt! No matter his opponent, Little Mac always puts his best fist forward.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/8AfuW-oLsRolIfKoDVwqxBfLODncRr8l/jToQpx6zg71Q7C5PlGj7SCp3vRl-G8SM.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/kjncdz3LEiJVkPjPlcSDY4T1BEvGGw7H/Oj2ADQu-zmnghi-G1ngRBneF2bIuu2z-.png"
+	},
+	{
+		"name": "Luigi",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2014/12",
+		"description": "Luigi is shy, quiet and often overshadowed by his sibling, but he's actually quite talented. His jumping ability surpasses Mario's, and his all-around skills let him overcome any problem. He's a bit cowardly and really afraid of ghosts. Even so, in the Luigi's Mansion games, he was charged with cleaning up poltergeist problems.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/q8AnCXvf3eom1P7p04uM8SBnwoiG0a23/QNJZ4sIoyd2vIbxZ1G5UhbQYNQVoFsu8.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/xnnaflL75V2dMt4IMYoyAqbpRnJRM8wM/o50HQkpYKngDJVCRXtmycH0hLBfUKbDf.png"
+	},
+	{
+		"name": "Pit",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2014/12",
+		"description": "Pit is the captain of Palutena's royal guard and hero of the Kid Icarus games. Despite the wings on his back, Pit needs the Power of Flight from Palutena in order to truly fly. With the aid of Palutena, goddess of light, Pit fends off the resurrection of Medusa and her Underworld Army to save the land from the dark goddess.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/gvtWQn0xcTZWmxyZs9MIRsaoBNzcdQPI/rumfpvPJjRNoYw1mghc1y4oaLVa3jEtR.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/W57upx3a0jp6A6Wx0XzbYXzzu5RBI8vy/XTxMFBysay9eWwCNPd9hjLnE2G8yyx-O.png"
+	},
+	{
+		"name": "Zelda",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2014/12",
+		"description": "Zelda is the princess of Hyrule and the namesake of The Legend of Zelda games. Her appearance may change, but she always plays an important role. She knows much about the Triforce; in fact, the only person who likely knows more about Triforce lore is Ganondorf himself, whom Zelda evaded in Ocarina of Time by transforming into her alter ego, Sheik.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/Le3fKWu6jZcog5lnun-wto0iV9l_1vyC/wJagO93zYTrEhJpJmZ0_3f-UpN76Q6zr.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/ssKk2Y6Fh2UacgDcIso2yjkxafLyvgZ4/VIpRNPBvuk631gnt_C0gBx4dtDtSayse.png"
+	},
+	{
+		"name": "Bowser",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2015/02",
+		"description": "Bowser™ is the king of the Koopas and Mario's eternal rival. He breathes fire, hurls hammers, and uses all sorts of weapons in hopes of taking out Mario™. As his size suggests, he's immensely powerful. His plans aren’t always the best, and sometimes he even finds himself on Mario’s side.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/Itwg0vPZkAzeh2UIbifKZDDlgQePfa6J/VbqRWgms_2JfaJ-vwTQ8AiKc1_IarGOW.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/1Fexx1vYLzNWLSrOWQDCRzTz2RN1GyuP/OxDINZhXl4VLnnyPniK_KdBLfFD7wYIP.png"
+	},
+	{
+		"name": "Ike",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2015/02",
+		"description": "One of the main characters from the Fire Emblem series. Having fought in the Mad King's War, restored the fallen nation of Crimea, and taken on the Begnion Empire, Ike is rightly called a hero. He has the strength to back the title – his powerful blade makes him a match for any foe.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/2sLUuYcC4WH93ZdXs1zqf831N50tjELr/Jdg76lHMuGNABlT6HE3r-b1CM0AKjA8c.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/7KsJvnBMSPg3gnN7zzVxoqB_7d2La98G/hS9S-bSxaikgRaFh4cVk0CaKlT-0pke2.png"
+	},
+	{
+		"name": "King Dedede",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2015/02",
+		"description": "Every hero needs an arch frenemy, and King Dedede is Kirby’s! He calls himself the King of Dream Land, but he doesn’t have a lot of interest in ruling. His hobbies include eating, stirring up trouble, and yelling orders at his loyal Waddle Dees while bashing things with his huge hammer.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/-gKJJjyA4I95YtsyBd97RMH-B_SDuC8R/vgp_OVO8twY-RRtzmBY6j-bv2m2pAmPV.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/RrGIqrky_zXJvLaIGVbBkbgfun8eSo2E/2CuMYxL1PvH5VN_mYVcPmIofJ0TR834X.png"
+	},
+	{
+		"name": "Lucario",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2015/02",
+		"description": "Lucario can track a form of energy called an aura, given off by all living creatures. Lucario is the only known Fighting- and Steel-type Pokémon and evolves from Riolu during the day when its happiness is high enough. Lucario specializes in attacks that use aura energy, like Dark Pulse, and its can’t-miss move, Aura Sphere. Exclusively at Toys R Us at launch.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/yG5rd6_T3jOfBx46-J6v0zoHWPvVR4tf/_lrH7VVPKTKAXTiCdd1R8Dcx-Emp5TMQ.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/BVtoV4niOkOy4VEumP6vergPAYF1MI9W/QQRwl5uxoNChJrEaqCc3kGAoIpVISxss.png"
+	},
+	{
+		"name": "Mega Man",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2015/02",
+		"description": "The main hero from Capcom's Mega Man™ series. An advanced humanoid robot created by Dr. Light, Mega Man was modified from a general-purpose lab assistant into a fighting robot. Fitted with a powerful arm cannon and the ability to gain skills from defeated enemies, Mega Man serves to thwart the evil plans of Dr. Wily and protect the peaceful coexistence between robots and mankind.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/YwRhl9Uakbnn83RVMszt9SVBHHFghRZb/IDX4xlgCrX_L061wjIe_FQ2GBx-WN0O4.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/ZEBMKb7M-Dyjw6JSYOX1sW5Uu7ikIPxU/JWeM3FOnjwF8Y2nEP70TG2gXPhxLSqiw.png"
+	},
+	{
+		"name": "Meta Knight",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2015/02",
+		"description": "Kirby's mysterious rival, this masked swordsman appears in several Kirby™ games. His giant cape transforms into wings, giving him the power of flight. He also captains a giant battleship, the Halberd, in order to take control of Dream Land. Meta Knight has shown his face briefly before, but his relationship to Kirby is still a mystery. US: Exclusively at Best Buy at launch.Canada: Exclusively at Best Buy and Future Shop at launch.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/I3xVK_-RBkdSw6NUXttY3BW99k-kp9PL/bpL072E86FmMX9R5dBvxCNappm5X1-cm.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/dyScqmCUHOXJjJDRDBHRlTsWOPLhjGEa/Y_yAGAQf8RSC-Hx3Zwukh9EmE9_9Dm1R.png"
+	},
+	{
+		"name": "Rosalina",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2015/02",
+		"description": "Rosalina travels through space in a starship called the Comet Observatory. Motherly and protective of the many Lumas that she travels with, she guards the cosmos against any and all threats. Wielding a Star Wand and her signature blue dress, Rosalina always seems cool even in the face of danger. US: Exclusively at Target at launch.Canada: The Rosalina amiibo figure will soon be available in limited quantities at the following retailers in Canada: Best Buy, Future Shop, Wal-Mart, EB Games , Toys 'R' Us and Amazon.ca. Please see your local retailer for more information on timing and availability.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/3mhYMEEXIhyoRV85njNejAV6rmmcu1_o/UPWu9Hs43URr1uIPCpbUMegdXYIa0FkS.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/dcWS6T0qB9etHOJ8z055JqaNo2bQz7e2/Dr0-NtXGh6JA8gobg98xeJyIKxRPML26.png"
+	},
+	{
+		"name": "Sheik",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2015/02",
+		"description": "Sheik is a mysterious, masked warrior who played an important role in Link’s quest in The Legend of Zelda: Ocarina of Time game. Disguised as part of the Sheikah tribe that populates Hyrule, Sheik taught Link™ essential ocarina melodies and then vanished in an instant. Why does Sheik look so familiar?",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/yGDdSOIgmZgtWbI8mD2ajwQi_RQXh1YP/juWfJyCRhTk2mHaTFOmL9ZIuWzYI5Q3z.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/p4yxQppAf4zCOByHzstusTyPqINkc4T9/jRgGcfKb61JqI4QhvGvy6yHZqCbUNdur.png"
+	},
+	{
+		"name": "Shulk",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2015/02",
+		"description": "A handsome young man and a budding scientist, Shulk is the main protagonist in the Xenoblade Chronicles game. After his home colony is attacked by the Mechon, he and his friends set off to take them down. Shulk wields the Monado, a legendary blade imbued with a curious power that allows it to effortlessly slice through Mechon armor. US: Exclusively at Gamestop at launch.Canada: Exclusively at EB Games at launch.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/xTQWgPqVrxhlp96rldZ50VQ5qGDmuKeS/DCM0pGkZEV1nlOWgx-PpxcU_JnaORLNG.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/FN64LU_4MH1eL_DqLNLfsl4RmKtVnV2a/ldNcSCxp87TDlvRu5s9cF9iMYNG6QFCg.png"
+	},
+	{
+		"name": "Sonic",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2015/02",
+		"description": "Sonic the Hedgehog is the fastest hero in the world, famous for his supersonic speed, iconic blue spikes and red shoes. With a super cool attitude and easy-going demeanor, Sonic has a love for freedom and adventure. Spinning head-on into trouble to defeat the evil forces of Dr. Eggman, for Sonic saving the world is the name of the game.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/upUUh6uwcEMgg0Y4pFMFz04O62ty1_ZA/gW67aj4T2f2qxjKBmAGe4K75OUY04Kss.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/EhZUPjoQSdbsCPwXcf3mvAoG1MOxVrOE/j7cyCrYf6H5Qd4RjDi4_fv2ltw4p1S2f.png"
+	},
+	{
+		"name": "Toon Link",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2015/02",
+		"description": "With big eyes and an expressive face, this version of Link™ is how he appeared in The Legend of Zelda: The Wind Waker game. Link lived peacefully on Outset Island until a bird captured his little sister, and he came to her rescue. His green clothes were worn on his 12th birthday and are the lucky outfit of the hero of legend.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/bKFufIvUzRE8SV6sXoaumsXSZ9REQhHe/VHdCapUzQ-zpdJvriCFUizDAc9tkMdSO.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/PU-oWjujzTbT16zzW2RLaRx4Xe2lWU67/OxKMQQSbWFswMeB9z-_hbQhRW7CQPJnM.png"
+	},
+	{
+		"name": "Bowser",
+		"series": "Super Mario",
+		"company": "Nintendo",
+		"release_date": "2015/03/20",
+		"description": "Bowser™ is the king of the Koopas and Mario's eternal rival. He breathes fire, hurls hammers, and uses all sorts of weapons in hopes of taking out Mario™. As his size suggests, he's immensely powerful. His plans aren’t always the best, and sometimes he even finds himself on Mario’s side.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/M9ZuD--El4DyniVx-waSbkK4Hdgk-hTi/SQoPbskqeWcIdhMs4YRwGeBhqOj00VY_.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/fLi9gDwflIem08lconGG_c6rUVi7I_jw/tQmirxoARWm-qqsXEfMq5B2e8oOT-R99.png"
+	},
+	{
+		"name": "Mario - Gold Edition",
+		"series": "Super Mario",
+		"company": "Nintendo",
+		"release_date": "2015/03/20",
+		"description": "Mario™ never hesitates to leap into action when there's trouble in the Mushroom Kingdom. Known for saving the world (and Princess Peach™) countless times from Bowser™, Mario is a true super star. He's got amazing jumping skills and makes use of a wide range of transformations. Mario has also powered up into countless roles: referee, doctor, sportsman, dancer, kart racer, and many more. US: Exclusively at Walmart at launch.Canada: This amiibo figure was released at major Canadian retailers on April 10, 2015.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/BGv3TgKxggWrZg6N1x2tWrgELaiPOB1V/pgGNRQTqcCh9ulsuB_0ddId8igVrdNkV.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/qYziOyurJOiYW-HOcETVhPpQRLMmSwWM/wrkNeTFsU98-jQDIDiyWh1hzY4m9mtPs.png"
+	},
+	{
+		"name": "Luigi",
+		"series": "Super Mario",
+		"company": "Nintendo",
+		"release_date": "2015/03/20",
+		"description": "Luigi is shy, quiet and often overshadowed by his sibling, but he's actually quite talented. His jumping ability surpasses Mario's, and his all-around skills let him overcome any problem. He's a bit cowardly and really afraid of ghosts. Even so, in the Luigi's Mansion games, he was charged with cleaning up poltergeist problems.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/n9NdiWaWGv74IdH9taQFdU_N47qXPBgS/BSPNXe_8bMr3Z8_k-hKpVWoCpMn0A_Wx.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/8hdAcN1jqg8GdPNVPPXGwraA0JHpy9Ge/V6knBk_vRuw54r_dTWeOhU44SeZ0DLOu.png"
+	},
+	{
+		"name": "Mario",
+		"series": "Super Mario",
+		"company": "Nintendo",
+		"release_date": "2015/03/20",
+		"description": "Mario™ never hesitates to leap into action when there's trouble in the Mushroom Kingdom. Known for saving the world (and Princess Peach™) countless times from Bowser™, Mario is a true super star. He's got amazing jumping skills and makes use of a wide range of transformations. Mario has also powered up into countless roles: referee, doctor, sportsman, dancer, kart racer, and many more.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/Y84xJ02j7hXV3wRXLJpD9Tu8-lKVQMfO/I3wtdtrnPLXTc-0slU9lbc3vMIHyw6L_.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/M9SsrL_hUTtac9xkL9A-5VsPRmma5YZ6/gTErNRnIVDd-L6ePOe9d6FWwtvgJlFSC.png"
+	},
+	{
+		"name": "Peach",
+		"series": "Super Mario",
+		"company": "Nintendo",
+		"release_date": "2015/03/20",
+		"description": "Princess Peach™ presides over the Mushroom Kingdom from her huge castle. Though she’s often the target of Bowser’s kidnapping schemes, Princess Peach is far from a simple damsel in distress. She’s a natural at tennis and golf, a ferocious driver, and can more than hold her own at adventuring and battling.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/2xHuUYyzHExJV_N2JGF4mk0GnRGumfw7/DlIB50MBKXRt5DOj-aZBxY3UEaciurVg.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/jrroHbcJa8mr2q02U4aVJlFp1YRaAink/0SQsTAZ01pi5gV0HzBda_Rvy90TK7Z1X.png"
+	},
+	{
+		"name": "Toad",
+		"series": "Super Mario",
+		"company": "Nintendo",
+		"release_date": "2015/03/20",
+		"description": "Toads are the servants at Princess Peach's Castle in the Mushroom Kingdom. Toads give off a strong sense of peace, but are no strangers to adventure and kart racing. Most feature white heads with red polka dots, but there are other types as well, including Captain Toad, self-proclaimed leader of the Toad Brigade.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/amL_aNZMhJce0yMqUS9nS02tgi_0EpQL/m6UbQWVHgCtQ1ZzOB3bDPmFGo4X9iljx.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/k2YjFBN871q4I3PgJ83xpmUh-DJ_3oT4/M-q8VrL04SRoNLvGW01nVN7yP1d0P_Cz.png"
+	},
+	{
+		"name": "Yoshi",
+		"series": "Super Mario",
+		"company": "Nintendo",
+		"release_date": "2015/03/20",
+		"description": "Yoshis come in all sorts of colors, but Mario's close buddy debuted in green. Kind-hearted, naturally protective of others, and perpetually hungry, Yoshi™ is always up for adventure…especially if there are snacks involved. Yoshis can flutter their legs to jump incredibly high. They also have extremely long tongues that they use to snare fruit and even enemies—anything they swallow gets turned into throwable eggs.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/EZiPiuUATQS-HPGfTZcbmTwfEAOD9q4v/wjBdnmTDu8jFCWKvVArrmwEuai8jnRzG.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/ifLHHc5W1EdVcl-cFnftlSkpV-CA4e8I/qIC-UL5VcE7O7vhNBENfmAE_oQ0d4VnF.png"
+	},
+	{
+		"name": "Charizard",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2015/05/29",
+		"description": "Charizard is the iconic Fire- and Flying-type Pokémon. Its scorching fiery breath can melt anything in its path. Charizard is known to fly around the sky in search of powerful opponents. However, it never turns its fire on opponents weaker than itself.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/0qqqrK1KHJC1Jv1hAaRvSsqMmJlZt7hq/hEfq_IUaxEvnE_yDcZMSuLPRhS4vm9Oc.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/-V2ORm8VDGi1bNrPbF3Wd7mD-8ajwtti/Exc8PMfSlDMwNwXfC7gZfYh-ycZmsFUc.png"
+	},
+	{
+		"name": "Greninja",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2015/05/29",
+		"description": "This Water- and Dark-type Pokémon is the fully evolved form of Froakie. It’s just as fast and dangerous as any other ninja, and the throwing stars it can make out of water can shear metal. When it spins the stars and throws them at high speed, they can split metal in two. Exclusively at Toys R Us at launch.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/Q6r1YPU6snD_oFYESGifvvjifTuwez0R/bqFod2mjCi4e2TnfwscPOjPRRsB22Cv6.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/TR_F4bHvZuxxi0wfgEFeYUy49w0hpeDS/w4rpXpo-omzRwlmNqejaA_-Deu-1le-z.png"
+	},
+	{
+		"name": "Inkling Boy",
+		"series": "Splatoon",
+		"company": "Nintendo",
+		"release_date": "2015/05/29",
+		"description": "Inkling boys hail from the city of Inkopolis in the game Splatoon. They crave team-based competition and love to customize their gear before participating in the hottest sport in town, Turf War! Their hobbies include making messes, rocking the latest fashions, dancing, and spoiling the nefarious plans of their evil octopus archrivals, the Octarians! Like a boss!",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/-O0MdxE5fjrUTirQEIBc4IfN0P3MlobA/bLe6XcXfSUG0kBipnxGCEY1QWwTD7WN9.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/if7fG--ndBL80c9_dNkrVEmXn1ALKqKF/x3KlwTwS4zdtnP9kkL5vcfxspIqd5gdE.png"
+	},
+	{
+		"name": "Inkling Girl",
+		"series": "Splatoon",
+		"company": "Nintendo",
+		"release_date": "2015/05/29",
+		"description": "Inkling girls hail from the city of Inkopolis in the game Splatoon. They crave team-based competition and love to customize their gear before participating in the hottest sport in town, Turf War! Their hobbies include making messes, rocking the latest fashions, dancing, and spoiling the nefarious plans of their evil octopus archrivals, the Octarians! For realsies!",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/EFS2v7iXNlaa251BYwxoBPPn19QAkRzI/8W06HlDwtgRx3DvPa2b4d747c75z530a.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/aKSozMsKgaw5npnG4TEa6ihhdwBKZmSB/wS7K2SmDHe5SfgvQxeqoN64gSrpbVZzd.png"
+	},
+	{
+		"name": "Inkling Squid",
+		"series": "Splatoon",
+		"company": "Nintendo",
+		"release_date": "2015/05/29",
+		"description": "The Inkling Squid amiibo figure is available exclusively in the Splatoon series 3-pack set.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/ggeRxp-KCXiXJTLVtIcKeFZQOg08VNiV/GxFJhV8Fo8aTASt5b23Xw2ViATJIP3sx.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/py4I8gydHSHQMD7NtRqle1uBmSpnqMNr/LuRJEyxd3TM5PHb4ls9WSVs0p-5KMk7U.png"
+	},
+	{
+		"name": "Jigglypuff",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2015/05/29",
+		"description": "This Normal- and Fairy-type Pokémon is best known for its soothing singing, which can make foes fall asleep. The secret to the song’s effectiveness is Jigglypuff’s ability to sing on the wavelength that will make its opponent the sleepiest. It also uses Attract to infatuate foes of the opposite gender. US: Exclusively at Target at launch.Canada: Exclusively at Walmart at launch.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/xQ68qepVkZqzDvTtozq19hiN2HMhiq23/0yzh0s3yaVcGsUX6_MrHqDhQUDg8I2M6.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/S-BKFKjjGeqG0ABK1CJ6WhYkI6hpwxy0/szhKbFWVTK3PymyGpYUC8O5lq3jrlSHS.png"
+	},
+	{
+		"name": "Lucina",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2015/05/29",
+		"description": "Lucina, from the Fire Emblem Awakening game, is Chrom's daughter and the future Princess of Ylisse. When she arrives from a doomed future seeking to prevent it from ever happening, she goes by the name Marth before her identity is revealed. She loves her father and would do anything to keep him safe.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/k7Ph3_gL7QsIPjFlTDsUYf0XH2gbRJKc/maYhqlJIC8J2xKFbSF7uNqsqCkga_M29.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/81o9RspPjg3dojowCSeo8n1u3ziABRuP/RqiuV34JVQ4R3GATxeyCPrEorIiPIYNh.png"
+	},
+	{
+		"name": "Ness",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2015/05/29",
+		"description": "Ness is a small-town kid and the main protagonist of the beloved game Earthbound. His ordinary looks hide his psychic PSI powers. Ness was living a normal life in the suburbs of Onett until a meteor crashed into a nearby mountain and sent him on a wild adventure. Believing in the ultimate powers of wisdom, courage, and friendship, Ness proves that some heroes come in small packages. US: Exclusively at GameStop at launch.Canada: Exclusively at EB Games at launch.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/0KugQl0uMfq3OLVPbpxt8-hyjsyeaKTn/3dOPZ69UnKIiemhy02qpjNO4NX1GiWEo.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/dYeckYYRil0rZDgIPiNdNWFlrNDWNA6W/LpTLtCp74r7GjxpTrvGSzj0pWb9VQP_i.png"
+	},
+	{
+		"name": "PAC-MAN",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2015/05/29",
+		"description": "PAC-MAN™ is a cultural icon whose popularity has crossed the globe for more than 30 years. The yellow, circular hero first starred in the game PAC-MAN, which is recognized as the “Most Successful Coin-Operated Arcade Game” by Guinness World Records. His journey through the maze of gaming infamy is far from over! Waka Waka!",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/uVjLhnRvxUvBXpHyi9DSsyB8HgMPB139/lgPikVY83GdjySikxc3P2kbAqgRonpY2.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/h4kITfIRnooAX4DlIWdhv8rbdwqE81NM/N5umBw1XCUlzYKXCNDv3dXrba_uIo3JO.png"
+	},
+	{
+		"name": "Robin",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2015/05/29",
+		"description": "Robin is one of the main characters in Fire Emblem: Awakening. A traveler who remembers nothing prior to being found by the wayside, Robin is a skilled fighter and serves as the main tactician among the Shepherds.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/ycX1-gWOYldHaRjdi8fwRn5Hsno0jpI4/2y_4EiuISAh9R5tIrcGQR8mwKbTh_hx-.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/ICwMtXcw4HNp5QJwKfcq5XbkxIz8R17M/MPdXuRdUl6XKvtz4AW-AeHeyn-VU3fr1.png"
+	},
+	{
+		"name": "Mario - Silver Edition",
+		"series": "Super Mario",
+		"company": "Nintendo",
+		"release_date": "2015/05/29",
+		"description": "Mario™ never hesitates to leap into action when there's trouble in the Mushroom Kingdom. Known for saving the world (and Princess Peach™) countless times from Bowser™, Mario is a true super star. He's got amazing jumping skills and makes use of a wide range of transformations. Mario has also powered up into countless roles: referee, doctor, sportsman, dancer, kart racer, and many more. US: Exclusively at Walmart at launch.Canada: This amiibo figure was released at major Canadian retailers on April 10, 2015.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/CJfB6BkEcbwlEfyio1dcQlAgcjW94Gy_/uYfShtuzDFOMgUui1F6ACj_Gcme_U2Rr.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/T7bD5GqtU2WZaE0Y7XEy6aaFRRsMXmp0/ZwMgEd56BpC51tSsbiCp3eWK-uOrLaXG.png"
+	},
+	{
+		"name": "Wario",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2015/05/29",
+		"description": "A living embodiment of gross, this villain hates Mario and loves money. He claims to have known Mario since childhood, but who can tell if that's true? Aside from adventuring, he's also the chairman of game maker WarioWare, Inc. He can also store up his trademark Wario Waft for explosive results in the Super Smash Bros. games. Did we mention he's gross?",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/F7i251zeSERwHOr-6sgSzvbQheP62FUR/S5W31WHP-mX1-KSshA8TviPJJ3fqV5SH.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/6EuKRr2oCYQqkcw-sgAbR0rkxXKRn1Dz/BCTGNMjSl0ted740K5PGbgJJeVLg6-DY.png"
+	},
+	{
+		"name": "Palutena",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2015/07/27",
+		"description": "Palutena, the goddess of light and ruler of Skyworld, hails from the Kid Icarus series of games. She goes to great lengths to protect her people, and those who dwell on the surface lands below. She watches over Pit as he does battle, sending him messages telepathically and using her powers to help him. Exclusively at Amazon at launch.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/KD65coO0n6jfVSCvbiAEM9BDwyjs-tJn/LuQtj96CkRQC-S_LPh1hnnGIYp6ztNjh.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/jy3GUopImyKTHJvI2E7V76JFypWc4oxC/3S-C7NYDpfJ-fyOOcSjEuUhJiJiK0cee.png"
+	},
+	{
+		"name": "Dark Pit",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2015/07/31",
+		"description": "Dark Pit first appeared in the Kid Icarus™: Uprising game, and is Pit's mysterious, black-clad doppelgänger. Some call him Pittoo, but he really doesn't like that. He can soar through the skies without being granted the power of flight. When he first appears, he immediately goes after both Pit and the Underworld Army. US: Exclusively at Best Buy at launch.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/aVkgO1fLiB7IeK7x9DGWTt_Ki2bqzW3r/YnVHWjfiXfbvzHXEZwCcZ2dJnUYoBRcN.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/lJSFLd72QvOZVTPEnQ3ETd97eeDxUKip/kE9np2DeG9GFbc7USSo6g194G1augvHi.png"
+	},
+	{
+		"name": "Dr. Mario",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2015/09/11",
+		"description": "In the 1990 Dr. Mario™ game, Mario™ threw on a white coat and decided to take a shot at that whole \"medicine\" thing. Dr. Mario destroys killer viruses with his amazing vitamin capsules and spends day and night in his laboratory working on new miracle cures. Somehow he's managed to keep up with all the new viruses that have arisen over the years. US: Exclusively at Target at launch.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/qW_cWYlOhRHFnfV4m9UokRQC77q3GSIa/JZxa4EBzqIlgmfxbTwS7W2WFnMZK366U.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/PANXEo5INiyAcO3rZQQT3GzSXzUBlKA_/X_5dO5rn4zp5UMMJUCuh2cHCd35CgNbJ.png"
+	},
+	{
+		"name": "30th Anniversary Mario - Classic Color",
+		"series": "30th Anniversary",
+		"company": "Nintendo",
+		"release_date": "2015/09/11",
+		"description": "Mario's style has evolved throughout his many adventures and challenges. This blocky, classic look harkens back to his design in the original Super Mario Bros.™ game that launched for the Nintendo Entertainment System™ in 1985. His iconic red overalls and brownish shirt represent the classic color scheme used in the original game",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/Px4og8s2iKUVrbABa6RC83W5y1cj8oNf/6ymSQrORjjCtw4beN6onoN5V66duBLiu.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/RmLOztIaNS0_eP4j8JzWqZHKW3dO7JRl"
+	},
+	{
+		"name": "Bowser Jr.",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2015/09/11",
+		"description": "Bowser's beloved, spoiled son sports a bandana with a large mouth drawn on it, likely an effort to appear more menacing. Like his father, Bowser Jr. longs to take Mario down, and he always seems to have new tricks up his sleeve. He often fights from inside his heavily armed Junior Clown Car. Exclusively at Toys R Us at launch.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/aPjy7gnuZmnU0e4Ex4hwYXCNLkZ8s1tX/sfb32EYipx3iaF4hD_uTVcCaRedrcCOR.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/Yp3HN_-2KbGr_qWlE1QfsAbeQXvIkF9I/k8BSv_7XmPLsaDoe6QwtV8X5_DQxrNPS.png"
+	},
+	{
+		"name": "30th Anniversary Mario - Modern Color",
+		"series": "30th Anniversary",
+		"company": "Nintendo",
+		"release_date": "2015/09/11",
+		"description": "Mario's style has evolved throughout his many adventures and challenges. This blocky, classic look harkens back to his design in the original Super Mario Bros.™ game that launched for the Nintendo Entertainment System in 1985. His blue overalls and red shirt represent his modern color scheme, and are mixed with the retro aesthetic of the original game.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/GvS22HTl9JeKIWrFJs_KG0Nu5wlXaHMq/RU5CgsfXJdgbm5QbtkC8_4LGxPLv6Str.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/45BTHsBiOCA85hrw879-XYwU8py9cKCu"
+	},
+	{
+		"name": "Ganondorf",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2015/09/11",
+		"description": "Ganondorf, The King of Evil is Link's arch-nemesis in most games in The Legend of Zelda™ series. As the embodiment of all evil, Ganondorf seeks to take control of Hyrule. He plundered a piece of the sacred Triforce from the Temple of Time when Link pulled the Master Sword from its pedestal. With the Triforce of Power in Ganondorf's possession, Hyrule was plunged into darkness until Link™ and Zelda™ defeated the fiend.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/WhAuSJ-KkURnM0w7qJWU6HQHtg9IO2kJ/EhD5d3CFaKLmWaP1iJsS9b3qgPMqKuJV.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/utcjFigLjAdPGm6P1NHaY-h3opgiSzgs/dRd5k2cLhGP8C5KqhhtXZi7WCQZox4Yl.png"
+	},
+	{
+		"name": "Olimar",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2015/09/11",
+		"description": "Captain Olimar is a veteran spaceship pilot and the main character of the Pikmin™ series. After crash-landing on an enigmatic planet, Olimar met the mysterious and tiny beings known as Pikmin. He enlisted their aid to recover his spaceship parts, battle monstrous enemies, and help him escape. Recently, Olimar’s even been spotted teaming up with Pikmin in wild and frenetic matches of something called Bingo Battle!",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/nCsbzC7qKIhd8oFSt_b0SQTMILaxLSKb/T4jKJ38BkvkmPmyqxYZJzRPlNcpRq9af.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/31HtzWEYCdBI2nuxjqRXb59JeKPyM9Ig/jDksOv_Ck-CVibyIw8I-V4SEM9kbN9PO.png"
+	},
+	{
+		"name": "Zero Suit Samus",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2015/09/11",
+		"description": "Samus™ is far from helpless when her Power Suit is deactivated. With her Zero Suit, she doesn't have the firepower she's famed for but is in full possession of the agility and athleticism she gained through her childhood training with the Chozo. Without the armor, she's also much, much faster. The weapon she carries is a self-protection device known as a Paralyzer that stops enemies cold.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/T7ZUUrIw6pj2H18xT4X7cjlHF3ruqfUc/e2vGy3dJUMxveF4aBn0B4eE019ajaD30.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/hnnUqG21Ngpihz-_I-7LTFFYsqAZbweH/0W6IbrywlVkAh-WXzTWyBONQ6-BUtO81.png"
+	},
+	{
+		"name": "Hammer Slam Bowser",
+		"series": "Skylanders SuperChargers",
+		"company": "Activision",
+		"release_date": "2015/09/20",
+		"description": "For the first time in Skylanders history, Hammer Slam Bowser will guest star as a playable character, exclusively on Nintendo platforms, and will also work with select amiibo-compatible games with a simple twist of the character's base. Bowser™ is the king of the Koopas and Mario's eternal rival. He breathes fire, hurls hammers, and uses all sorts of weapons in hopes of taking out Mario™. As his size suggests, he's immensely powerful. His plans aren’t always the best, and sometimes he even finds himself on Mario's side. Hammer Slam Bowser is exclusively available in the Skylanders SuperChargers Racing Starter Pack for Wii and Nintendo 3DS.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/YUUnxUfyviHdgMZEsjS-v1BItA4lkpF7/BecoZoSOLv73CqblS9qyAnRn_HwCvtSM.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/QY64ZYDTAJuaP-FYkiFPRb6eAaIFk-Ud/oMVgHHsR7VmBBCTCTeB_XXY3ytAkQO8u.png"
+	},
+	{
+		"name": "Turbo Charge Donkey Kong",
+		"series": "Skylanders SuperChargers",
+		"company": "Activision",
+		"release_date": "2015/09/20",
+		"description": "For the first time in Skylanders history, Turbo Charge Donkey Kong will guest star as a playable character, exclusively on Nintendo platforms, and will also work with select amiibo-compatible games with a simple twist of the character's base. This king of the jungle is superstrong, a little scatterbrained, and absolutely nuts about bananas. His adventures usually start with people stealing his hoard of them. As his physique suggests, this Kong is a powerhouse, but he's got speed to match too! His famous red necktie is adorned with his initials, DK. Turbo Charge Donkey Kong is exclusively available in the Skylanders SuperChargers Starter Pack for Wii U",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/TLeRu_IAcEwcL2QKEcY4XeOaKivoYfCj/LArrFxUmfjTuvACG6YRZLf02kt-4C9jI.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/KbLeZw6rGqelQqEZFw9W0clXiT4QrNHs/Wu3473v9EB6NXEs3BVsMH00m0XF7LTsa.png"
+	},
+	{
+		"name": "Animal Crossing Cards - Series 1",
+		"series": "Animal Crossing",
+		"company": "Nintendo",
+		"release_date": "2015/09/25",
+		"description": "Animal Crossing is filled with characters who have lots of humor and personality, and now you can get to know them better with amiibo cards. Reunite with old friends, or even discover new ones with this pack of 6 Animal Crossing amiibo cards. Set includes a random selection of Animal Crossing characters plus 1 Special Character.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/SsK8WL2DREkxg_7cYPR6THjJP0pMtwMu/jSk4VZ-td0V6-5MXEQXqd64VoUYa_slo.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/E4iiMKja7ybmulRln7l2v0cJ6-Jt58D7/xi2-tvt4PHkm0hWUh7A2nPi6xDV6-ub8.png"
+	},
+	{
+		"name": "Duck Hunt",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2015/09/25",
+		"description": "These two were the stars of the NES launch title Duck Hunt, way back in 1985. This goofy dog would chase down any ducks hit by the Zapper™ accessory, but wasn’t shy about laughing at missed shots. In Super Smash Bros. for Wii U and Nintendo 3DS, these two work as a team to fight. Quack! Bark? Both! The Duck Hunt amiibo figure is available exclusively in the Retro 3-pack set.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/BKlewo1yRc53sf5vw6n1vAk8h3nnyiRJ/nh9xNzdLL3ZGBewlEYUvUTRDHqbVUPJe.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/ZzQjIQOPOAV6juh6Q6xqUVQXdl5wg-R5/IyF8Bd_wX1hj6OuTbjEUATDQby1o_MuI.png"
+	},
+	{
+		"name": "Mr. Game & Watch",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2015/09/25",
+		"description": "This monochrome, two-dimensional hero represents the handheld Game & Watch™ series, first released in 1980. More recently, Mr. Game & Watch can be found using his retro fighting moves to battle foes in the Super Smash Bros. series of games. The Mr. Game & Watch amiibo figure is available exclusively in the Retro 3-pack set.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/OLym4PjfF6rEnhLc0v8eoQVNPypOD_8k/KS1RM7wo7m6MIXUlMRvlKGfTyexRaRrY.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/vRgnc8685bEDyVRa2msDq9C8_dZWtI3F/UwG_iNk6PNg9JHTMEbfMEfl6lMAI2wJE.png"
+	},
+	{
+		"name": "R.O.B.",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2015/09/25",
+		"description": "This robotic operating buddy was released in 1985 as an accessory for the Nintendo Entertainment System™. R.O.B. introduced a new and unique way for players to interact with games. In recent years R.O.B.’s appeared as a playable character in multiple games, including Super Smash Bros. for Wii U and Nintendo 3DS, using projectile weapons to attack and a rocket base to fly through the air. The R.O.B. amiibo figure is available exclusively in the Retro 3-pack set.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/n0Rr4kKu1dnya8sLB5xCT4KtOrhZQmsy/nu0LQ9OnZVvtDL7zoX-p0iQumv49qkQy.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/UV5DjU85QvD2J8Q2CPLokG5FV22oYqtD/x6IZJlVQ_FTzjdI-LVqQCPm1a7Xyvon5.png"
+	},
+	{
+		"name": "Chibi-Robo",
+		"series": "Chibi-Robo",
+		"company": "Nintendo",
+		"release_date": "2015/10/09",
+		"description": "Chibi-Robo is an energetic, four-inch-tall, self-charging--he can plug himself in--helper robot built by the Citrusoft company to aid in completing the toughest of household chores. Always humble and soft-spoken, he constantly finds himself caught up in exciting adventures and bizarre situations. He's a pint-sized hero with a big heart...and one day he just might save the world. Chibi-Robo amiibo allows access to additional bonus content that is not otherwise accessible in the game or with other compatible amiibo.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/j_4ZFBbg5PfXQrvlKQukI-SqywuEnsaC/rqjG45_aX2wNfaKUyTso50jVupk3xW-x.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/zgIYzUr8pQ-TqU7wTTFQctyhHuJ9oH4Y/Vk3Jh0tl1yCqyQX-Ma9R4yWlxN-NBFjJ.png"
+	},
+	{
+		"name": "Green Yarn Yoshi",
+		"series": "Yoshi's Woolly World",
+		"company": "Nintendo",
+		"release_date": "2015/10/16",
+		"description": "Made from actual yarn, Yoshi™ has never been more adorable! Kind-hearted, naturally protective of others, and perpetually hungry, Yoshi™ is always up for adventure…there are so many mysteries to explore and new things to find! Yoshis can flutter their legs to jump incredibly high and can use their long tongue to snare enemies or other handy things.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/FYw9z218shZLlUfICX_0FsFAAJZQiA00/eWBGRmLjPAJ20ks39Jsk57kJXuQJNLg7.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/RHHASpVYGCRZwjPYH3Z-nLqfJ2Ji2jw2/Us99t-8UXzoL2Znp3LqWRbOcBv-mdasd.png"
+	},
+	{
+		"name": "Light Blue Yarn Yoshi",
+		"series": "Yoshi's Woolly World",
+		"company": "Nintendo",
+		"release_date": "2015/10/16",
+		"description": "Made from actual yarn, Yoshi™ has never been more adorable! Kind-hearted, naturally protective of others, and perpetually hungry, Yoshi™ is always up for adventure…there are so many mysteries to explore and new things to find! Yoshis can flutter their legs to jump incredibly high and can use their long tongue to snare enemies or other handy things.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/I6-eqzF138iZl54AKQ6MyAWP6oA8RP_H/ijbWDuvmLta3G4Qv18hq1dwjXoA7K-1U.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/4nlASCkdN-lssAJCgMXH_95r2oc-kQ2P/1xE6CQeNM8aA8-fyY1mVLstACh0e4VUv.png"
+	},
+	{
+		"name": "Pink Yarn Yoshi",
+		"series": "Yoshi's Woolly World",
+		"company": "Nintendo",
+		"release_date": "2015/10/16",
+		"description": "Made from actual yarn, Yoshi™ has never been more adorable! Kind-hearted, naturally protective of others, and perpetually hungry, Yoshi™ is always up for adventure…there are so many mysteries to explore and new things to find! Yoshis can flutter their legs to jump incredibly high and can use their long tongue to snare enemies or other handy things.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/1FRMvexaOm4qlKzy_dd5cqTSqe2jTRUg/rPvSvT2i3LYiG3yIbGjnsn98mDY4SaBZ.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/1yTC3rn972laLnOvCqfmSU4oBmePN5LX/ELBH5s-y8VGkAQPCVeGAGTLvCarlGW0M.png"
+	},
+	{
+		"name": "Mii Brawler",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2015/11/01",
+		"description": "Mii Fighters are playable characters in Super Smash Bros. for Wii U and Nintendo 3DS. They are based on a player's Mii™ character—so anyone can join in—and you can outfit them with fun costumes. There are three different types (Brawler, Gunner, and Swordfighter), and each one brings a different fighting style to the battle! US: The Mii Brawler amiibo figure is available exclusively in the Mii Fighter 3-pack set.Canada: The Mii Brawler amiibo figure is available exclusively in the Mii Fighter 3-pack set, released in Canada on November 20, 2015.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/-YtFWwVrSO8fpksXuOCbIy1APOW4b2KB/Z7-16WlTdCutcF-znihpJSwzGmfagwbo.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/OH3nX0W6m0C_RUz8HehuXh7RzA8MZhH3/nimHm36r9Z0Ia4ckOyBM10m-z_2EpU4_.png"
+	},
+	{
+		"name": "Mii Gunner",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2015/11/01",
+		"description": "Mii Fighters are playable characters in Super Smash Bros. for Wii U and Nintendo 3DS. They are based on a player's Mii™ character—so anyone can join in—and you can outfit them with fun costumes. There are three different types (Brawler, Gunner, and Swordfighter), and each one brings a different fighting style to the battle! US: The Mii Gunner amiibo figure is available exclusively in the Mii Fighter 3-pack set.Canada: The Mii Gunner amiibo figure is available exclusively in the Mii Fighter 3-pack set, released in Canada on November 20, 2015.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/SeXvTO8RYbiHX5VFYZqrQswRA36JkCBr/y6Ifd3ujeFKy24ACyvkUU__UCgjLnspg.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/OH3nX0W6m0C_RUz8HehuXh7RzA8MZhH3/nimHm36r9Z0Ia4ckOyBM10m-z_2EpU4_.png"
+	},
+	{
+		"name": "Mii Swordfighter",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2015/11/01",
+		"description": "Mii Fighters are playable characters in Super Smash Bros. for Wii U and Nintendo 3DS. They are based on a player's Mii™ character—so anyone can join in—and you can outfit them with fun costumes. There are three different types (Brawler, Gunner, and Swordfighter), and each one brings a different fighting style to the battle! US: The Mii Swordfighter amiibo figure is available exclusively in the Mii Fighter 3-pack set.Canada: The Mii Swordfighter amiibo figure is available exclusively in the Mii Fighter 3-pack set, released in Canada on November 20, 2015.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/LmVuEYzBosVVxAeLpGyfNuH2f8lf0Urk/MA83W-WhbUvqPAx9nHnBDTCQevX4Dmfu.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/OH3nX0W6m0C_RUz8HehuXh7RzA8MZhH3/nimHm36r9Z0Ia4ckOyBM10m-z_2EpU4_.png"
+	},
+	{
+		"name": "Cyrus",
+		"series": "Animal Crossing",
+		"company": "Nintendo",
+		"release_date": "2015/11/13",
+		"description": "Cyrus is a blue alpaca and husband to Reese, and together they run the Re-Tail recycling center and shop in Animal Crossing: New Leaf. Bring him furniture you'd like to customize and he'll give you several options—change the color, make a music box, shrink fossils…just don't go making goo-goo eyes at Reese while you wait for him to finish his handiwork. The Cyrus amiibo figure is available exclusively in the Animal Crossing 3-pack set.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/8AqxtWcA3Uo1ryKNF_ybmaat2dak0Tio/jmFxe_NZ2lCsUcPQly8j2OoR5_BwoXPl.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/HgzB7EXx-TO-x9-iG-L6qQUG4TNFg2f4/Df_onBMdO3jayIRAQ5-mL8j87sFUYym5.png"
+	},
+	{
+		"name": "Digby",
+		"series": "Animal Crossing",
+		"company": "Nintendo",
+		"release_date": "2015/11/13",
+		"description": "Isabelle's twin brother, Digby, works at the Happy Home Showcase in Animal Crossing: New Leaf and at Nook's Homes in Animal Crossing: Happy Home Designer. When he needs a quick break, he'll head down to the Roost for a cup of coffee (Blue Mountain, black, no sugar). He's fairly oblivious to the fact that his co-worker Lottie is enamored with him. Exclusively available with Animal Crossing: amiibo Festival at launch.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/t8hJBay8dZjOa8xqgj_FBLA2Ho94MQND/jJO95j7JpL7MSvdxk_Imc5m_Gjsb0W_X.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/kmWlmcVD_j_LjcWnhU8uUaLLPAPN6ATg/OtibspK5JzaWmkOAk6y7BJDxdsAnweo6.png"
+	},
+	{
+		"name": "Isabelle",
+		"series": "Animal Crossing",
+		"company": "Nintendo",
+		"release_date": "2015/11/13",
+		"description": "Isabelle is the mayor's highly capable secretary from the Animal Crossing: New Leaf game. She can be forgetful sometimes, but you can always count on her for information about the town, and she's happy to cheer you on in all your mayor-ly duties. She also has a twin brother named Digby. Exclusively available with Animal Crossing: amiibo Festival at launch.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/Hue4WmPEZuiZt-I5HYzau5s1-p0nYXho/PJXudiJgCV0gThuEzLIgZaOPNWGPrxyP.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/9fRPrlQ3CPVtYG0jXjYW449ymnWICwH8/BupqhqTzAUheGtKJhvI8lfGwpL9uY30J.png"
+	},
+	{
+		"name": "K.K.",
+		"series": "Animal Crossing",
+		"company": "Nintendo",
+		"release_date": "2015/11/13",
+		"description": "K.K. Slider is a wandering musician—who occasionally moonlights as DJ K.K.—from the Animal Crossing series. In Animal Crossing: New Leaf, you can request your favorite hit during his live concerts held every Saturday, and he'll give you a recording of the song to take home as a memento. The mayor's secretary, Isabelle, apparently has a big crush on him. Who could blame her? The K.K. amiibo figure is available exclusively in the Animal Crossing 3-pack set.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/oSsFHem9T4_WA-coHiWICnIdX7wQ_A7M/A0I0mnuZb2VHSPpXLNk1xHmhy1q51RXh.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/sCv1Hew81bgVchdliahWJDSxRNCtUvSk/YPfKofTZJmFmyxOqXtXYlqfyyWLQw3Xn.png"
+	},
+	{
+		"name": "Mabel",
+		"series": "Animal Crossing",
+		"company": "Nintendo",
+		"release_date": "2015/11/13",
+		"description": "Mabel is one of three siblings who run the Able Sisters clothing and tailor shop from Animal Crossing: New Leaf, and her cheerful people skills make her great at welcoming in customers. Her oldest sister, Sable, sews; the middle child, Labelle, sells accessories. They fought in the past but have put that behind them!",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/Di9WjWU2uy0caI9ckHBARurKN8bNrfSL/TP9RA9NddZy-q1pMFxnMJr1HuCst809B.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/9q4I1NmkS0SQh_tSf7tLP_qJ32l5paSm/9nz4lcbIpQKFVTcgGOO0m4ofcegr6f9T.png"
+	},
+	{
+		"name": "Mewtwo",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2015/11/13",
+		"description": "Created from modified Mew DNA, Mewtwo was designed to be the ultimate Pokémon™. It didn't take on any of Mew's kinder traits and only uses its intelligence to destroy its enemies. Or...so it seems. Perhaps it just feels frightened or even tormented, and that's why it lashes out. Whatever the reason, Mewtwo is not to be messed with.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/Hog-pXmjagufyC3pAGZ8YYt_VcvEQkND/WIQb7ejfJJf9zwRzuvRcQ6ceSnB9C1oU.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/tn30j-DCabTPwLFhWpp9V2KHRGQ265Am/GJVye6P17XAoWFfAkYkNL7ipaX27SlmW.png"
+	},
+	{
+		"name": "Reese",
+		"series": "Animal Crossing",
+		"company": "Nintendo",
+		"release_date": "2015/11/13",
+		"description": "Reese is a pink alpaca who runs the Re-Tail recycling shop along with her husband Cyrus in Animal Crossing: New Leaf. She sells all kinds of secondhand goods, so go to her if you want to get a good deal for last season’s furniture or the prized beetles you caught on the island. The Reese amiibo figure is available exclusively in the Animal Crossing 3-pack set.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/_DFObefv-Yl3Xx5hYUqeV81I9pUaD_1B/6Z_o6ON0FnU3UZXS7p4Kvv7RVOUs_KKQ.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/YOID8hcXt-l49OXhnImB3Pd_CfzkqJ3h/VIBFwcgoneNFtrLp0mHGZlL95iU3PfBr.png"
+	},
+	{
+		"name": "Tom Nook",
+		"series": "Animal Crossing",
+		"company": "Nintendo",
+		"release_date": "2015/11/13",
+		"description": "Tom Nook is the owner of Nook's Homes in the Animal Crossing games, yes, yes. \"Yes, yes\" is his favorite catchphrase. Despite all the money he's earned, he'll never lose that down-to-earth charm. With such a friendly demeanor, there's just no way he could be trying to rip you off. So trustworthy, yes yes!",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/g5Em1EH8cwQNsiI6FHfg2WBtc8VzPagH/aPNeFWE_fM8LmZVLw7mJ3_0AqzmEhjJU.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/h1Rc-g7NS73Wrz5jBrDxnLG7c-6Wh8es/YOfULySQj0Xq-c3fw2BuVCxh_vr0iZB_.png"
+	},
+	{
+		"name": "Mega Yarn Yoshi",
+		"series": "Yoshi's Woolly World",
+		"company": "Nintendo",
+		"release_date": "2015/11/15",
+		"description": "Made from actual yarn, Yoshi™ has never been more adorable! Kind-hearted, naturally protective of others, and perpetually hungry, Yoshi™ is always up for adventure…there are so many mysteries to explore and new things to find! Yoshis can flutter their legs to jump incredibly high and can use their long tongue to snare enemies or other handy things. Available exclusively at Toys R' Us at launch.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/Zmkf594KPNd5widc0n_K4qnUpp5OoqcC/foVqqenQWo9l8cZnQLPQBeokhiP5RppJ.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/Lk2ZrYyoCQ48NPvSeN1DgNOL7QMDESAW/CUJBCTaFzYmvflxXVrJUCkwtqWlNjRpJ.png"
+	},
+	{
+		"name": "Falco",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2015/11/20",
+		"description": "Made from actual yarn, Yoshi™ has never been more adorable! Kind-hearted, naturally protective of others, and perpetually hungry, Yoshi™ is always up for adventure…there are so many mysteries to explore and new things to find! Yoshis can flutter their legs to jump incredibly high and can use their long tongue to snare enemies or other handy things. US: Exclusively at Best Buy at launch.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/21dXgzyXeQg5hlFh4fkpVzoy0C8bFd21/0kBLYo2zHaKA9K0Xisi1MQSuGi_TPcQ6.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/flZLKFvxQ8_TFa3Q2wKC4V_FMqPS0BfE/dbHCMMjwCQceqjM5phqvFeM_tcsXb3Lq.png"
+	},
+	{
+		"name": "Lottie",
+		"series": "Animal Crossing",
+		"company": "Nintendo",
+		"release_date": "2015/11/22",
+		"description": "Lottie is a smart, sassy river otter who leads you in your new role as decorator in the Animal Crossing: Happy Home Designer game. She isn't afraid to call out her boss—the successful business-raccoon Tom Nook—on his shenanigans, but she's also his most loyal employee. Lottie's uncle Lyle works with her at Nook's Homes, as does her crush – Isabelle's twin brother Digby.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/WSobWwWJKWbjKk2tbajrS5G88tOkwsum/xqScMuV8Itt_ip1CcIeNYu4gH5ehGCLB.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/w9a03r5Jwx3bNTah876H3tKSNRXinf3P/Il-rYNs5oTcNnagceNeeHzigXqZaXDLH.png"
+	},
+	{
+		"name": "Shovel Knight",
+		"series": "Shovel Knight",
+		"company": "Yacht Club Games",
+		"release_date": "2016/01",
+		"description": "A practitioner of the ancient code of Shovelry, Shovel Knight can do almost anything with his signature weapon, the Shovel Blade. His ingenuity and quick thinking have won him many battles, even though his stature is small! Always honest and helpful, Shovel Knight lives by the creed of Shovelry: Slash Mercilessly and Dig Tirelessly!",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/GmWddSOQ3qYt6msOTosgazkB5szzI5CB/6ZXhRA0ZkS0ICEjP6K6emaluAafaIt-F.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/6crpKLrtog4Ug1dH7QgDD2_xQet8yEUT/RvNaXESU6j467C6UM1sen3sXGkn37Brs.png"
+	},
+	{
+		"name": "Animal Crossing Cards - Series 2",
+		"series": "Animal Crossing",
+		"company": "Nintendo",
+		"release_date": "2016/01/22",
+		"description": "The Animal Crossing™ series is filled with characters who have lots of humor and personality, and now you can get to know them better with amiibo™ cards. Reunite with old friends, or even discover new ones with this pack of 6 Animal Crossing amiibo cards. Set includes a random selection of Animal Crossing characters plus 1 Special Character.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/NcuK2ZJZ-9AQrk-WxmGo_cIfOALPWaNa/Rx1wocWbYpfM0EMHdWmnQ9PR_D9lJT9G.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/21H_uyncGn-zJUlRpOXg7YnPRDqUJ3Eo/LvFE0WeFu9DaO09PXabzZIhmkQuVqBX2.png"
+	},
+	{
+		"name": "Kicks",
+		"series": "Animal Crossing",
+		"company": "Nintendo",
+		"release_date": "2016/01/22",
+		"description": "Crikey! Need a sweet new pair of kicks to go with your custom outfit? Talk to Kicks--a skunk who runs a shoe and sock shop by the same name in the Animal Crossing™: New Leaf game. He'll hook you up, chum. And you can tell from that sharp-looking hat he's wearing that his is a style you can trust.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/zG60ImgMeoRuGXdEWEq81nr--JPya27l/N5tfmluY-aLtqtfz14Uh1iyn1OZjt3Q9.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/LXtZiC8IZjG7bKnNht1_kLcQdvo8A-ra/QsCZjHDBqKASp-UnJWrP57R8kZLPVtMk.png"
+	},
+	{
+		"name": "Celeste",
+		"series": "Animal Crossing",
+		"company": "Nintendo",
+		"release_date": "2016/01/22",
+		"description": "Together, the owl Celeste and her brother Blathers run the museum in the Animal Crossing™: New Leaf game. She's also been known to dabble in astronomy and fall asleep on the job (though she'd never admit it). What could she be dreaming about?",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/P8qt96rulMig8jPoZRoW8SFderqnrd2Z/owZiH5RYASnae9bfWzPBcs76KkG7Ew7T.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/BvUEW3b_ieW4SgvlVnQxE5xjVW2zkwVL/S3WGUEQ1ReC5zynpVbUhUOWEonQpxGa8.png"
+	},
+	{
+		"name": "Lucas",
+		"series": "Super Smash Bros.",
+		"company": "Nintendo",
+		"release_date": "2016/01/22",
+		"description": "The younger of twin brothers living in Tazumili Village in the Nowhere Islands. He's a kind boy who can communicate with animals, but he's shy and never really got over the tragedy that struck his mother. He fights a warped dictatorship and hunts the Seven Needles, using PSI attacks to do things like absorb enemy projectiles and deal supernatural damage!",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/1zTQKoOGGg3AA21ugW9gYbTyFe8VjKSS/Rb2rxA7aK-8TS-lCGT-T9wnIKhMsRu8j.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/7czS7_oZl71pI31akkVsoLJlXkHdJy9z/GsTyduf-61aEDXupfOAevvDaPTMeD60m.png"
+	},
+	{
+		"name": "Resetti",
+		"series": "Animal Crossing",
+		"company": "Nintendo",
+		"release_date": "2016/01/22",
+		"description": "Forget to save your Animal Crossing™ game, and Mr. Resetti—the not-so-mild-mannered mole—will pop out of the ground to scold you. The more you forget, the grumpier he becomes, so save your game often!",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/hmRRj5Q_WE2HudAmCtjv7cVSi5793ri6/5834ZFqsx9Uf2bJKHtIPkyY6FmCSPAI2.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/MQPlm6EF5GJ-MLHOZ_-nIlFqSK6VMPkk/sadaqVF_tdyQAhAxEAgRtM6EQAooCp7H.png"
+	},
+	{
+		"name": "Mega Man - Gold Edition",
+		"company": "Capcom",
+		"release_date": "2016/02/23",
+		"description": "The main hero from Capcom's Mega Man™ series. An advanced humanoid robot created by Dr. Light, Mega Man was modified from a general-purpose lab assistant into a fighting robot. Fitted with a powerful arm cannon and the ability to gain skills from defeated enemies, Mega Man serves to thwart the evil plans of Dr. Wily and protect the peaceful coexistence between robots and mankind. Available exclusively in the the Mega Man Collector's Edition.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/Kyb5UPkjnqaUffO6E6ZK6U7aKXSrvRL9/mBpnF3SjDzkprRiDYWdg2td_Us3u2xmL.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/9x9zuWruUqCkrWwWKNUK-JxX0Eohh8Y6/u7dddAEcQwxMoRu8jxCqBoD2_kXDJG5H.png"
+	},
+	{
+		"name": "Wolf Link",
+		"company": "Nintendo",
+		"release_date": "2016/03/04",
+		"description": "Wolf Link is the legendary twilit beast form of the hero Link™. He first appeared in the Legend of Zelda™: Twilight Princess game, where he worked with the mysterious and mischievous imp Midna™ to take down a usurper to the throne, and to save Hyrule and the Twilight Realm from darkness.",
+		"detail_image_url": "http://media.nintendo.com/nintendo/bin/wWWk-GOHCWWXR-uQ-T01jzWWREufo021/Lg3hxNGjRCh6zCFXO16DHYu0S-twCWQz.png",
+		"boxart_image_url": "http://media.nintendo.com/nintendo/bin/zkraMHA6a6ic_i9cYHfPJmhfMT3oBijm/0gFDVhJV0tOpG7SGVbTi2MNaIVVFQYA8.png"
+	}
+]
