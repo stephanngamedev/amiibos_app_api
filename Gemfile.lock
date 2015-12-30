@@ -157,6 +157,7 @@ GEM
       mini_portile2 (~> 2.0.0.rc2)
     pg (0.18.4)
     puma (2.15.3)
+    rack-cors (0.4.0)
     rack-test (0.6.3)
       rack (>= 1.0)
     rails-deprecated_sanitizer (1.0.3)
@@ -218,6 +219,7 @@ DEPENDENCIES
   pg (~> 0.18.4)
   puma
   rack!
+  rack-cors
   rails!
   rake
   rspec-rails (~> 3.0)
